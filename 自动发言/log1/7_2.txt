@@ -1,0 +1,1063 @@
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia,''@xiao130001___Cannot find any entity corresponding to "@zhaopinzhijia,''@xiao130001"
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 386 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu02___A wait of 369 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinbmcom1122ttt___A wait of 345 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshiziyaungongxing___A wait of 315 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhenzhudafandian___A wait of 300 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@guanggaoqun___A wait of 278 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@FLB_CN,''@renshihuzhu___Cannot find any entity corresponding to "@FLB_CN,''@renshihuzhu"
+ERROR:root:∑¢—‘ ß∞‹£∫@HR004000___A wait of 251 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3582 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu02___A wait of 3567 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinbmcom1122ttt___A wait of 3552 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshiziyaungongxing___A wait of 3537 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhenzhudafandian___A wait of 3522 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@guanggaoqun___A wait of 3507 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3198 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu02___A wait of 3178 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinbmcom1122ttt___A wait of 3158 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshiziyaungongxing___A wait of 3138 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhenzhudafandian___A wait of 3118 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@guanggaoqun___A wait of 3098 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@FLB_CN___A wait of 3077 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshihuzhu___A wait of 3040 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@HR004000___A wait of 3007 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@yabotiyu666___A wait of 2981 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@flbggqz___A wait of 2943 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@DS888555___A wait of 2916 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu04___A wait of 2880 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeiducs___A wait of 2857 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu05___A wait of 2820 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaogongzuo8468,''@PYQHR___Cannot find any entity corresponding to "@zhaogongzuo8468,''@PYQHR"
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3599 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu02___A wait of 3579 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinbmcom1122ttt___A wait of 3559 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshiziyaungongxing___A wait of 3539 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhenzhudafandian___A wait of 3519 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@guanggaoqun___A wait of 3499 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@FLB_CN___A wait of 3479 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshihuzhu___A wait of 3459 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@HR004000___A wait of 3439 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@yabotiyu666___A wait of 3419 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@flbggqz___A wait of 3399 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@DS888555___A wait of 3379 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3351 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___A wait of 3331 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@weipinginging___A wait of 3311 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3288 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___A wait of 3268 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3192 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___A wait of 3172 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@weipinginging___A wait of 3152 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 3122 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___A wait of 3102 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___local variable 'client' referenced before assignment
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-31' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-27' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-33' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-26' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-63' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-87' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 608, in _handle_update
+    self._update_callback(message.obj)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 287, in _handle_update
+    self.session.process_entities(update)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-105' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-91' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-113' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-93' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-95' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-97' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-99' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-101' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-103' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-107' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-109' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-133' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-118' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-120' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-149' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-129' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-162' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-168' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 477, in _get_difference
+    result = await self(functions.updates.GetChannelDifferenceRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-176' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-135' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-189' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 477, in _get_difference
+    result = await self(functions.updates.GetChannelDifferenceRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-178' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-137' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-144' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-152' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-158' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-233' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-160' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-164' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-166' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-171' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-215' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-182' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-180' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-185' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-211' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-194' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-224' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-198' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-201' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 477, in _get_difference
+    result = await self(functions.updates.GetChannelDifferenceRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-187' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 471, in _get_difference
+    result = await self(functions.channels.GetFullChannelRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-226' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-222' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-307' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-314' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-312' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-322' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-326' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-316' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 391, in _dispatch_update
+    await self._get_difference(update, channel_id, pts_date)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 477, in _get_difference
+    result = await self(functions.updates.GetChannelDifferenceRequest(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 75, in __call__
+    self.session.process_entities(result)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sessions\sqlite.py", line 281, in process_entities
+    c.executemany(
+sqlite3.OperationalError: database is locked
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___database is locked
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 2789 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___A wait of 2769 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 2740 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@wwxx2___A wait of 2735 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@weipinginging___A wait of 2730 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___A wait of 2725 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinzhijia___You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@it678___A wait of 2654 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@ifeidu02___A wait of 2649 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhaopinbmcom1122ttt___A wait of 2644 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@renshiziyaungongxing___A wait of 2639 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@zhenzhudafandian___A wait of 2634 seconds is required (caused by SendMessageRequest)
+ERROR:root:∑¢—‘ ß∞‹£∫@guanggaoqun___A wait of 2629 seconds is required (caused by SendMessageRequest)
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 746 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 47, in __call__
+    raise errors.FloodWaitError(request=r, capture=diff)
+telethon.errors.rpcerrorlist.FloodWaitError: A wait of 741 seconds is required (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 47, in __call__
+    raise errors.FloodWaitError(request=r, capture=diff)
+telethon.errors.rpcerrorlist.FloodWaitError: A wait of 741 seconds is required (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-23' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 47, in __call__
+    raise errors.FloodWaitError(request=r, capture=diff)
+telethon.errors.rpcerrorlist.FloodWaitError: A wait of 741 seconds is required (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 706 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-125' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 47, in __call__
+    raise errors.FloodWaitError(request=r, capture=diff)
+telethon.errors.rpcerrorlist.FloodWaitError: A wait of 692 seconds is required (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-21' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "D:/python/◊‘∂Ø∑¢—‘/◊‘∂Ø∑¢—‘.py", line 71, in startAll
+    client.send_message(url,√Ë ˆ)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\asyncio\base_events.py", line 616, in run_until_complete
+    return future.result()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 563 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None

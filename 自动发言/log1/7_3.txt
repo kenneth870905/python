@@ -1,0 +1,687 @@
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled exception from send_loop_handle after cancelling <class '_asyncio.Task'> (<Task finished name='Task-5' coro=<MTProtoSender._send_loop() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py:405> exception=TypeError('a TLObject was expected but found something else')>)
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\tl\tlobject.py", line 190, in __bytes__
+    return self._bytes()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\tl\functions\__init__.py", line 184, in _bytes
+    self.query._bytes(),
+AttributeError: 'bytes' object has no attribute '_bytes'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\helpers.py", line 120, in _cancel
+    await task
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 423, in _send_loop
+    batch, data = await self._send_queue.get()
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\messagepacker.py", line 62, in get
+    state.msg_id = self._state.write_data_as_message(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotostate.py", line 91, in write_data_as_message
+    bytes(InvokeAfterMsgRequest(after_id, data)))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\tl\tlobject.py", line 196, in __bytes__
+    raise TypeError('a TLObject was expected but found something else')
+TypeError: a TLObject was expected but found something else
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<MessageMethods.send_message() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py:539> exception=SlowModeWaitError('A wait of 3555 seconds is required before sending another message in this chat (caused by SendMessageRequest)')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 3555 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<MessageMethods.send_message() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py:539> exception=TypeError("'int' object is not iterable")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 734, in send_message
+    message, msg_ent = await self._parse_message_text(message, parse_mode)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messageparse.py", line 86, in _parse_message_text
+    message, msg_entities = parse_mode.parse(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\markdown.py", line 68, in parse
+    message = add_surrogate(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\helpers.py", line 31, in add_surrogate
+    return ''.join(
+TypeError: 'int' object is not iterable
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<MessageMethods.send_message() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py:539> exception=SlowModeWaitError('A wait of 3542 seconds is required before sending another message in this chat (caused by SendMessageRequest)')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 3542 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<MessageMethods.send_message() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py:539> exception=TypeError("'int' object is not iterable")>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 734, in send_message
+    message, msg_ent = await self._parse_message_text(message, parse_mode)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messageparse.py", line 86, in _parse_message_text
+    message, msg_entities = parse_mode.parse(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\markdown.py", line 68, in parse
+    message = add_surrogate(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\helpers.py", line 31, in add_surrogate
+    return ''.join(
+TypeError: 'int' object is not iterable
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<MessageMethods.send_message() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py:539> exception=SlowModeWaitError('A wait of 3511 seconds is required before sending another message in this chat (caused by SendMessageRequest)')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\messages.py", line 752, in send_message
+    result = await self(request)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 3511 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-33' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-47' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-95' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:telethon.network.mtprotosender:Unhandled error while processing msgs
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 497, in _recv_loop
+    await self._process_message(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 586, in _handle_container
+    await self._process_message(inner_message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 512, in _process_message
+    await handler(message)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 558, in _handle_rpc_result
+    if not isinstance(reader.tgread_object(), upload.File):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 120, in tgread_object
+    constructor_id = self.read_int(signed=False)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 37, in read_int
+    return int.from_bytes(self.read(4), byteorder='little', signed=signed)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\extensions\binaryreader.py", line 60, in read
+    raise BufferError(
+BufferError: No more data left to read (need 4, got 0: b''); last read None
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UserMethods.__call__() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py:29> exception=SlowModeWaitError('A wait of 3187 seconds is required before sending another message in this chat (caused by SendMessageRequest)')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 74, in __call__
+    result = await future
+telethon.errors.rpcerrorlist.SlowModeWaitError: A wait of 3187 seconds is required before sending another message in this chat (caused by SendMessageRequest)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-61' coro=<UserMethods.__call__() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py:29> exception=FloodWaitError('A wait of 3185 seconds is required (caused by SendMessageRequest)')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 47, in __call__
+    raise errors.FloodWaitError(request=r, capture=diff)
+telethon.errors.rpcerrorlist.FloodWaitError: A wait of 3185 seconds is required (caused by SendMessageRequest)
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected

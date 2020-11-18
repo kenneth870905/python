@@ -1,0 +1,336 @@
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-30' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-66' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-40' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-50' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-107' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-129' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-139' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-174' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-202' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-51' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-71' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-87' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-99' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-72' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-40' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-55' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-82' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-33' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-11' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-32' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-44' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-32' coro=<UpdateMethods._dispatch_update() done, defined at C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py:382> exception=ConnectionError('Cannot send requests while disconnected')>
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\updates.py", line 399, in _dispatch_update
+    await self.get_me(input_peer=True)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 138, in get_me
+    me = (await self(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\client\users.py", line 53, in __call__
+    future = self._sender.send(request, ordered=ordered)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telethon\network\mtprotosender.py", line 170, in send
+    raise ConnectionError('Cannot send requests while disconnected')
+ConnectionError: Cannot send requests while disconnected

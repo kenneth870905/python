@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="session_name" uuid="974d38d5-3f3f-474d-83b3-098450812f72">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\python\session_name.session</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="登录" uuid="a0f32f00-a57d-43bd-9ad0-61b9e11a8acb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\python\自动发言\登录.session</jdbc-url>
+    </data-source>
+  </component>
+</project>
