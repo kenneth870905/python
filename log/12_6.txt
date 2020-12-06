@@ -1,0 +1,17 @@
+INFO:root:1
+ERROR:root:https://t.me/TG7788
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/susu622
+ERROR:root:No user has "susu622" as username
+ERROR:root:https://t.me/SYH6969
+ERROR:root:No user has "syh6969" as username
+ERROR:root:https://t.me/SYH669
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/dd322
+ERROR:root:No user has "dd322" as username
+ERROR:root:https://t.me/PPGOO
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/bwg01
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+INFO:root:3
+INFO:root:3
