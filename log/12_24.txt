@@ -1,0 +1,69 @@
+INFO:root:1
+INFO:telethon.client.users:Sleeping for 16s (0:00:16) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 16s (0:00:16) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 16s (0:00:16) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 16s (0:00:16) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 16s (0:00:16) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 16s (0:00:16) on GetFullChannelRequest flood wait
+ERROR:root:https://t.me/vrfe23
+ERROR:root:No user has "vrfe23" as username
+INFO:telethon.client.users:Sleeping for 6s (0:00:06) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 6s (0:00:06) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 6s (0:00:06) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 6s (0:00:06) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 5s (0:00:05) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 5s (0:00:05) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 5s (0:00:05) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 5s (0:00:05) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 4s (0:00:04) on GetFullChannelRequest flood wait
+ERROR:root:https://t.me/acou699
+ERROR:root:No user has "acou699" as username
+ERROR:root:https://t.me/KY7777
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/liuhedadui
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/TG096
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/bigT_ForYOU
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/zhaop
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/hgfhgf44fds
+ERROR:root:No user has "hgfhgf44fds" as username
+ERROR:root:https://t.me/Huobi_RK
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/TGG88888
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/fangyuanx
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/muyingjiaoliu
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/CAI309
+ERROR:root:No user has "cai309" as username
+ERROR:root:https://t.me/canglang009
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/dsaji92
+ERROR:root:No user has "dsaji92" as username
+ERROR:root:https://t.me/qianzhengyuanzhu
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/TG5956
+ERROR:root:No user has "tg5956" as username
+ERROR:root:https://t.me/shenmaGY
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/huaxun_ph
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/FeiDu11
+ERROR:root:Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+ERROR:root:https://t.me/yulegaoduan
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/A8jingping
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/Xiaoyao159000
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/wenan00
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/bwg01
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:susu622
+ERROR:root:No user has "susu622" as username
+INFO:telethon.statecache:Failed to retrieve channel_id from UpdateNewChannelMessage(message=MessageEmpty(id=9067904), pts=10140151, pts_count=1)

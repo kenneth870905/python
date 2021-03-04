@@ -32,7 +32,7 @@ def rizhi():
 api_id = 1368006
 api_hash = '0c01e40681ffd65816bdb765a67ada94'
 client  = TelegramClient('莞', api_id, api_hash)
-client.start()
+# client.start()
 client.connect()
 
 
@@ -95,41 +95,104 @@ massage = [
     ]
 
 urllist = [
-    # {'url': "https://t.me/TG128", 'msg': "😝😝😝😝"},
-    {'url': "https://t.me/TG7788", 'msg': "😝😝😝😝"},
-    {'url': "https://t.me/susu622",'msg':'有没有想找美女的啊？需要的密我\nhttps://t.me/GuanShiFuWu','name':"菲律宾★招嫖鉴黄总站"},
+    {'url': "https://t.me/susu521", 'msg': "😝😝😝😝", 'name': "狗推🔥全网娱乐中心"},
+    {'url': "https://t.me/wenan999", 'msg': "😝😝😝😝", 'name': "深夜情感文案馆交流群🧡"},
+    {'url': "https://t.me/zhuanzhuanjob", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/vrfe23", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/acou699", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/wanbo02", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG2099", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/ABA999888", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/KY7777", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/fei136", 'msg': "😝😝😝需要安排的密我", 'name': ""},
+    {'url': "https://t.me/Liugezhashuai", 'msg': "😝😝😝需要安排的密我", 'name': "菲律宾美食外卖交流"},
+    {'url': "https://t.me/liuhedadui", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/zhongwenTGpingdao", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG096", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/bigT_ForYOU", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/LianMengHui", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/zhaop", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/globalaction999", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG128", 'msg': "😝😝"},
+    {'url': "https://t.me/hgfhgf44fds", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/jipiao689", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/fei729", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/fei719", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/Huobi_RK", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TGG88888", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/fei717", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/tygzwhite", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/zhaopinqiuzhi", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/meishi001", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/xianliao01", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/fangyuanx", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/muyingjiaoliu", 'msg': "😝😝😝😝", 'name': ""},
+    # {'url': "https://t.me/ResourcesInPH", 'msg': "有没有想找美女的啊？需要的密我\nhttps://t.me/GuanShiFuWu", 'name': "在菲：資源交換（廣告群）"},  这个要等
+    {'url': "https://t.me/gtst888", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG88999", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/CAI309", 'msg': "有没有想找美女的啊？需要的密我\nhttps://t.me/GuanShiFuWu", 'name': ""},
+    {'url': "https://t.me/paofen668899", 'msg': "有没有想找美女的啊？需要的密我\nhttps://t.me/GuanShiFuWu", 'name': ""},
+    {'url': "https://t.me/xiaobudianqun", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG4858", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/cxcf1010", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/AKG003", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/canglang009", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG6363", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/cn_markets", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG2060", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/KaTe98888", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/HRMOyanBOB", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/dsaji92", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/sdyfooddiscuss8", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/Dior5661_TG", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/bcjy_88", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/qianzhengyuanzhu", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/JRTT1", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/AIzn01", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG5956", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/yhy111", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/shenmaGY", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/huaxun_ph", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/feimeishiquan", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/FeiDu11", 'msg': "😝😝😝😝", 'name': ""},
+    # {'url': "https://t.me/dibai880088", 'msg': "😝😝😝😝", 'name': ""},   这个没必要发
+    {'url': "https://t.me/KOK888888888", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/dubai13148888", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/sdy91", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/JY987", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/FD007", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/FD521", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/feilvbinliaoba", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/yulegaoduan", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/fwqcom48", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/A8jingping", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/Xiaoyao159000", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/UFKJ001", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/wenan00", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/bwg01", 'msg': "😝😝😝😝", 'name': "🏛 “博”物管 🔍/聊天吹水/生活互助/外卖"},
+    {'url': "susu622", 'msg': "😝😝😝😝", 'name': ""},
     {'url': "https://t.me/hhdd58", 'msg':"有没有想找美女的啊？有的密我",'name':"菲律宾Makati pasay餐饮商家群🔥🔥"},
-    # {'url': "https://t.me/bodu365bocai", 'msg': "有没有想找美女的啊？有的密我", 'name':"博度365博彩行业交流（禁黄 禁硬广"},
-    {'url': "https://t.me/SYH6969", 'msg': "有没有想找美女的啊？有的密我", 'name': "菲律宾★华人联盟"},
     {'url': "https://t.me/TG188188", 'msg': "有没有想找美女的啊？有的密我", 'name': "菲凡社区🌸菲律宾华人/狗推交流互助"},
-    {'url': "https://t.me/bodu123456", 'msg': "有没有想找美女的啊？有的密我", 'name': "扇贝吐水夫妻互换鉴黄交流群"},
     {'url': "https://t.me/FX2_usdt", 'msg': "有没有想找美女的啊？有的密我", 'name': "风行OTC/usd/btc资金漂白"},
     {'url': "https://t.me/waimaimeishimanila", 'msg': "有没有想找美女的啊？有的密我", 'name': "外卖 美食 换汇 马尼拉"},
-    # {'url': "https://t.me/ResourcesInPH", 'msg': "有没有想找美女的啊？需要的密我\nhttps://t.me/GuanShiFuWu", 'name': "在菲：資源交換（廣告群）"},  这个要等
     {'url': "https://t.me/SYH669", 'msg': "有没有想找美女的啊\nhttps://t.me/GuanShiFuWu", 'name': "菲律宾★菲嫖不可娱乐群"},
-    {'url': "https://t.me/dd322", 'msg': "有没有想找美女的啊？有的密我", 'name': "香烟槟榔面膜美食/手机/卡/笔记本/电脑"},
-    {'url': "https://t.me/PPGOO", 'msg': "有没有人想我啊", 'name': "狗推客服人事★交流群【禁广告】"},
-    {'url': "https://t.me/bwg01", 'msg': "需要安排的密我", 'name': "🏛 “博”物管 🔍/聊天吹水/生活互助/外卖"},
-    {'url': "https://t.me/susu521", 'msg': "😝😝😝😝", 'name': "狗推🔥全网娱乐中心"},
-    {'url': "https://t.me/Liugezhashuai", 'msg': "😝😝😝需要安排的密我", 'name': "菲律宾美食外卖交流"},
+    # {'url': "https://t.me/PPGOO", 'msg': "有没有人想我啊", 'name': "狗推客服人事★交流群【禁广告】"},
     {'url': "https://t.me/wmmsq", 'msg': "😝😝😝需要安排的密我", 'name': "Pasay Makati 外卖美食群(🈲外卖以"},
     {'url': "https://t.me/bmhhq3", 'msg': "😝😝😝需要安排的密我", 'name': "便民群-换汇群（🈲广告）"},
     {'url': "https://t.me/dou1687", 'msg': "😝😝😝需要安排的密我", 'name': "全菲能力甩人交流群（禁止打 广告发链"},
-    {'url': "https://t.me/SU9899", 'msg': "😝😝😝大家好啊", 'name': "菲律宾★狗推人事联盟💋匆匆那年【禁广告】"},
-    {'url': "https://t.me/HWC689", 'msg': "😝😝😝", 'name': "菲律宾💋青春年华🌹交友闲聊💖【禁"},
+    # {'url': "https://t.me/SU9899", 'msg': "😝😝😝大家好啊", 'name': "菲律宾★狗推人事联盟💋匆匆那年【禁广告】"},
+    # {'url': "https://t.me/HWC689", 'msg': "😝😝😝", 'name': "菲律宾💋青春年华🌹交友闲聊💖【禁"},
     {'url': "https://t.me/TG550", 'msg': "😝😝😝需要安排的密我", 'name': "狗推俱乐部"},
     {'url': "https://t.me/sdynews", 'msg': "😝😝😝需要安排的密我", 'name': "昇得源-菜农特工讨论群"},
-    {'url': "https://t.me/TG222", 'msg': "😝😝😝需要安排的密我", 'name': ""},
     {'url': "https://t.me/TGhr88", 'msg': "😝😝😝需要安排的密我", 'name': ""},
-    {'url': "https://t.me/aabbccmmm", 'msg': "需要小妹的密我", 'name': ""},
-    {'url': "https://t.me/chwlmm", 'msg': "需要小妹的密我", 'name': ""},
-    {'url': "https://t.me/bwjl51", 'msg': "需要小妹的密我", 'name': ""},
-    {'url': "https://t.me/DongDTB", 'msg': "😝😝😝", 'name': ""},
-    # {'url': "https://t.me/TG928", 'msg': "需要小妹的密我", 'name': ""},
-    {'url': "https://t.me/piseo2rmb", 'msg': "需要小妹的密我", 'name': ""},
+
+    {'url': "https://t.me/DNY66161", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/TG0017", 'msg': "😝😝😝😝", 'name': ""},
+    {'url': "https://t.me/tank889", 'msg': "😝😝😝😝", 'name': ""},
+    # {'url': "", 'msg': "😝😝😝😝", 'name': ""},
+    # {'url': "", 'msg': "😝😝😝😝", 'name': ""},
+    # {'url': "https://t.me/TG7788", 'msg': "😝😝😝😝"},
     {'url': "phxiaoM",'msg':"定时消息测试，不用管"},
-    # {'url': "", 'msg': "", 'name': ""},
-    # {'url': "", 'msg': "", 'name': ""},
 ]
 # https://t.me/GuanShiFuWu
 
@@ -138,19 +201,12 @@ def startAll():
     for obj in urllist:
         try:
             client(SendMessageRequest(obj['url'], obj['msg'] ))
+            # client(SendMessageRequest(obj['url'], massage[random.randint(0, len(massage))-1] ))
         except Exception as e:
             logging.error(obj['url'])
             logging.error(e)
         time.sleep(10)
 
-def 打招呼():
-    for obj in urllist:
-        try:
-            client(SendMessageRequest(obj['url'], massage[random.randint(0, len(massage))-1] ))
-        except Exception as e:
-            logging.error(obj['url'])
-            logging.error(e)
-        time.sleep(10)
     # # client(SendMessageRequest('', '有没有需要小妹的啊？需要的密我'))
 
 if __name__ == "__main__":
@@ -161,12 +217,10 @@ if __name__ == "__main__":
     # while True:
     hour_now = datetime.datetime.now().hour
     if (hour_now > 12 and hour_now<24) or hour_now < 3 :
-        if hour_now % 2 == 0:
-            startAll()
-        else:
-            打招呼()
-        # time.sleep(60 * 60 * 1)
-    # else:
-        # time.sleep(60* 10 * 1)
+        startAll()
+        # if hour_now % 2 == 0:
+        #     startAll()
+        # else:
+        #     打招呼()
 
 

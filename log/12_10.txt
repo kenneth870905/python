@@ -1,0 +1,57 @@
+INFO:root:1
+ERROR:root:https://t.me/Huobi_RK
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/canglang009
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/shenmaGY
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/huaxun_ph
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/yulegaoduan
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/A8jingping
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/Xiaoyao159000
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/wenan00
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/bwg01
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:susu622
+ERROR:root:No user has "susu622" as username
+INFO:root:14
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 7s (0:00:07) on GetFullChannelRequest flood wait
+INFO:telethon.client.users:Sleeping early for 6s (0:00:06) on GetFullChannelRequest flood wait
+ERROR:root:https://t.me/Huobi_RK
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/canglang009
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/qianzhengyuanzhu
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/shenmaGY
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/huaxun_ph
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/yulegaoduan
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/A8jingping
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/Xiaoyao159000
+ERROR:root:The channel specified is private and you lack permission to access it. Another reason may be that you were banned from it (caused by SendMessageRequest)
+ERROR:root:https://t.me/wenan00
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:https://t.me/bwg01
+ERROR:root:You can't write in this chat (caused by SendMessageRequest)
+ERROR:root:susu622
+ERROR:root:No user has "susu622" as username
