@@ -198,6 +198,7 @@ def start():
     # thread.start()
     # return
     
+    print('开始123')
     if t1<60 or t1> 60*60*23.5:
         # 防止阻塞
         new_get = allRecording()
@@ -219,10 +220,19 @@ if __name__ == "__main__":
     # thread = threading.Thread(target=start)
     # thread.start()
     start()
-    
 
 
 
+# 安装依赖  python -m pip install b包名
+# 运行
+# python /root/aomenlhc/start.py >> /root/aomenlhc/my.log 2>&1 &
+# nohup python start.py >> my.log 2>&1 &
+# nohup python start.py 2>&1 &
+# nohup python start.py &
+# 查看
+# ps -aux | grep "start.py"
+# 结束
+# kill 查询出来的id
 
 
 
