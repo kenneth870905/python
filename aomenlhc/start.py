@@ -44,12 +44,12 @@ class allRecording():
         # 失败或没有结果间隔时间 秒
         self.t1 = 30
         # 最多调用次数 
-        self.max1 = 1
+        self.max1 = 5
         
         #指定期数开奖
         self.n2 = 0
         self.t2 = 60
-        self.max2 = 35
+        self.max2 = 50
 
         # 获取我们数据库次数
         self.n3 = 0
@@ -228,6 +228,7 @@ if __name__ == "__main__":
 # python /root/aomenlhc/start.py >> /root/aomenlhc/my.log 2>&1 &
 # nohup python start.py >> my.log 2>&1 &
 # nohup python start.py 2>&1 &
+# nohup python start.py 2
 # nohup python start.py &
 # 查看
 # ps -aux | grep "start.py"
