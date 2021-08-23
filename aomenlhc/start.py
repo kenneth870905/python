@@ -49,7 +49,7 @@ class allRecording():
         #指定期数开奖
         self.n2 = 0
         self.t2 = 60
-        self.max2 = 35
+        self.max2 = 40
 
         # 获取我们数据库次数
         self.n3 = 0
@@ -142,7 +142,17 @@ class allRecording():
     # 获取指定期数开奖信息
     def IssueOpenInfo(self):
         print('获取最新开奖信息')
-        res =  requests.post(self.api+'/api/IssueOpenInfo', json={'lotteryId': 2032, 'issue': self.CurrentInfo['lastIssue']},headers={'content-type': 'application/json'})
+        time.sleep(0.01)
+        try:
+            res =  requests.post(self.api+'/api/IssueOpenInfo', json={'lotteryId': 2032, 'issue': self.CurrentInfo['lastIssue']},headers={'content-type': 'application/json'})
+        except:
+            print('获取IssueOpenInfo未知异常')
+            if self.n2 < self.max2:
+                time.sleep(self.t2)
+                self.n2 = self.n2+1
+                self.IssueOpenInfo()
+            return
+
         if (res.status_code == 200 ):
             resjson = json.loads(res.text)
             if resjson['code']==0:
@@ -198,7 +208,7 @@ def start():
     # thread.start()
     # return
     
-    print('开始123')
+    print('开始')
     if t1<60 or t1> 60*60*23.5:
         # 防止阻塞
         new_get = allRecording()
