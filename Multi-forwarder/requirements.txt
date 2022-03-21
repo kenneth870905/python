@@ -1,0 +1,10 @@
+certifi==2021.5.30
+chardet==4.0.0
+idna==2.10
+pyaes==1.6.1
+pyasn1==0.4.8
+pyfiglet==0.8.post1
+requests==2.25.1
+rsa==4.7.2
+Telethon==1.21.1
+urllib3==1.26.5

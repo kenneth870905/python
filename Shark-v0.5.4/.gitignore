@@ -1,0 +1,7 @@
+*__pycache__
+venv/
+*.session*
+*.db
+.*.py
+*.sw?
+settings.json

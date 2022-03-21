@@ -28,7 +28,7 @@ def setToken():
 
 class allRecording():
     def __init__(self):
-        self.api = 'https://his.duomaids.com'
+        self.api = 'https://his.hzqmzx.com'
         # self.api_2 = 'http://127.0.0.1/php/aomenlhc'
         self.api_2 = 'http://kj00853.app/'
         
@@ -44,12 +44,12 @@ class allRecording():
         # 失败或没有结果间隔时间 秒
         self.t1 = 30
         # 最多调用次数 
-        self.max1 = 1
+        self.max1 = 5
         
         #指定期数开奖
         self.n2 = 0
         self.t2 = 60
-        self.max2 = 40
+        self.max2 = 50
 
         # 获取我们数据库次数
         self.n3 = 0
@@ -111,12 +111,12 @@ class allRecording():
 
     # 获取开奖配置
     def getCurrentInfo(self):
-        print('获取开奖配置')
+        print('获取开奖配置123')
         # 查询已保存结果
         res = requests.post(self.api+'/api/CurrentInfo', json={"lotteryId": 2032}, headers={'content-type': 'application/json'})
         if (res.status_code == 200 ):
             resjson = json.loads(res.text)
-            # print('接口返回值',resjson)
+            print('接口返回值',resjson)
             if resjson['code'] == 0:
                 data = resjson['data']
                 
@@ -231,14 +231,13 @@ if __name__ == "__main__":
     # thread.start()
     start()
 
-
+# https://macau-jc.com/pc/#/
 
 # 安装依赖  python -m pip install b包名
 # 运行
-# python /root/aomenlhc/start.py >> /root/aomenlhc/my.log 2>&1 &
-# nohup python start.py >> my.log 2>&1 &
 # nohup python start.py 2>&1 &
-# nohup python start.py &
+# nohup python start.py >/dev/null 2>&1 &
+
 # 查看
 # ps -aux | grep "start.py"
 # 结束

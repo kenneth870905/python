@@ -1,0 +1,6 @@
+__pycache__
+venv
+*.sw?
+*.log
+*.txt
+!requirements.txt
